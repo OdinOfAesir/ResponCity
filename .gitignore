@@ -1,0 +1,19 @@
+# dependencies:
+node_modules/
+
+# compiled files:
+dist/
+
+# environment variables:
+.env
+
+# npm log:
+npm-debug.log*
+
+# Project
+data/
+.results/
+
+.DS_Store
+.idea/
+.vscode/
